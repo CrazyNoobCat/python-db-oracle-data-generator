@@ -1,0 +1,1 @@
+num_rows_to_generate, table_name, col_1_name, col_1_type, ... ,col_n_name, col_n_type, primary_key_1_col_name, ..., primary_key_n_col_name, foreign_key_1_col_name, foreign_key_1_tabl_name, foreign_key_1_required, foreign_key_n_col_name, foreign_key_n_tabl_name, foreign_key_n_required 
